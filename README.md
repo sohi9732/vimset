@@ -1,10 +1,10 @@
 # vimset
-This is my vim setting.
+개인 vim 셋팅입니다.
 
-How To Set
-'''
+셋팅방법
+```
 cd ~
 git clone http://github.com/sohi9372/vimset
 cd vimset
 cp ./.vimrc ~
-'''
+```
