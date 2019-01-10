@@ -8,3 +8,6 @@ git clone http://github.com/sohi9372/vimset
 cd vimset
 cp ./.vimrc ~
 ```
+
+* item1
+* item2
