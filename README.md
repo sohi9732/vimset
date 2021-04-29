@@ -4,7 +4,7 @@
 셋팅방법
 ```
 cd ~
-git clone http://github.com/sohi9372/vimset
+git clone http://github.com/sohi9732/vimset
 cd vimset
 cp ./.vimrc ~
 ```
